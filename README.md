@@ -14,7 +14,7 @@ PYTHON PROGRAMMING: As a Python trainer at Victory Training Centre, I teach Pyth
 LET'S CONNECT!
 Feel free to explore my repositories and projects. If you have any questions or collaboration ideas, don't hesitate to reach out to me.
 You can connect with me on 
-LinkedIn : www.linkedin.com/in/priyadharshininrs
+LinkedIn : www.linkedin.com/in/priyadharshininrs or
 send me an email at priyadharshininrs@gmail.com 📧.
 
 Thank you for visiting my GitHub profile! 🚀
